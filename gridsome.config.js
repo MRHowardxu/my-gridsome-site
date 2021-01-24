@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: "Portfolio",
-  siteUrl: `http://117.50.93.22:8080`,
+  siteUrl: `https://howardxu-gridsome.vercel.app`,
   host: "0.0.0.0",
 
   titleTemplate: "%s - NWA",
